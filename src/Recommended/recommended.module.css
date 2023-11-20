@@ -1,0 +1,26 @@
+.wrapper {
+    
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.action {
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-size: 12px;
+    margin-left: 10px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn:hover{
+    background-color: rgb(92, 89, 89);
+    color: white;
+}

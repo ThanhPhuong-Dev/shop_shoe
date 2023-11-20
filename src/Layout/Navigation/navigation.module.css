@@ -1,0 +1,35 @@
+.wrapper {
+  width: 85%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 2px solid #ccc;
+  position: fixed;
+  background-color: white;
+  z-index: 10;
+}
+
+.search {
+  width: 200px;
+}
+
+.inputt {
+  position: relative;
+  width: 100%;
+  padding: 12px 20px;
+  outline: none;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  background: #f7f6f6;
+}
+
+.profile {
+}
+
+.icon {
+  margin-left: 20px;
+  font-size: 22px;
+  color: #6c6a6a;
+}

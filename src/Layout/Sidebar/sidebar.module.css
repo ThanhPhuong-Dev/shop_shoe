@@ -1,0 +1,25 @@
+.wrapper{
+    position: fixed;
+    width: 15%;
+    min-height: 100%;
+    border-right: 2px solid #ccc;
+    z-index: 999;
+    background-color: white;
+    overflow: scroll;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    height: 100px;
+    border-bottom: 2px solid #ccc;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

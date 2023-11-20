@@ -1,0 +1,17 @@
+.wrapper {
+  display: flex;
+}
+
+.container {
+  width: 85%;
+  position: relative;
+  left: 15%;
+  top: 0;
+}
+
+.content {
+  position: absolute;
+  top: 100px;
+  margin: 0 20px;
+  margin-left: 30px;
+}
